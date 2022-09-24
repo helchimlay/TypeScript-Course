@@ -1,0 +1,5 @@
+terminal
+npm install --save-dev lite-server
+
+package.json
+"start": "lite-server"
